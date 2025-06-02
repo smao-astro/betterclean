@@ -1,2 +1,2 @@
 # betterclean
-Self-supervised and Regularized learning for radio data deconvolution
+Operator learning for radio data deconvolution
